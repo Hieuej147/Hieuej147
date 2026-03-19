@@ -17,8 +17,4 @@
 - 🤖 Integrating AI Agents using **LangGraph**.
 - 📈 Leveling up my full-stack skills every day.
 
----
-
-### 📫 Connect with me
-[LinkedIn](https://linkedin.com/in/yourlink) | [Facebook](https://facebook.com/yourlink) | [Portfolio](https://yourlink.com)
 
