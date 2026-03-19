@@ -7,7 +7,7 @@
 ### 🛠 Tech Stack
 
 - **Frontend:** Angular, React, Next.js
-- **Backend:** NestJS, Python (FastAPI/Flask)
+- **Backend:** NestJS, Python (FastAPI)
 - **AI Tools:** LangGraph, CopilotKit
 
 ---
