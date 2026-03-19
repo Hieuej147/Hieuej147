@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hieu Dev 147
+# 👋 Hi, I'm Hieu
 
 **Web Developer Intern | AI Enthusiast** Building modern web apps and AI Agents.
 
