@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hieu Dev 147
 
-**Web Developer Intern | AI Enthusiast** Building modern web apps and AI Agents on **CachyOS**.
+**Web Developer Intern | AI Enthusiast** Building modern web apps and AI Agents.
 
 ---
 
