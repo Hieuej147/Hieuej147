@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hieu
 
-**Web Developer Intern | AI Enthusiast** Building modern web apps and AI Agents.
+**Web Developer Intern | AI Integrator** Building modern web apps and AI Agents.
 
 ---
 
